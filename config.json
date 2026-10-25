@@ -20,5 +20,58 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "양덕원": {
+      "style": "dorm",
+      "wall": "#c77b61",
+      "glass": "#3f6b70",
+      "frame": "#ece6dc",
+      "hip": true,
+      "roof": "#8a4e3a"
+    },
+    "선덕종합체육관": {
+      "style": "brick",
+      "wall": "#c8735a",
+      "glass": "#3d6a66",
+      "frame": "#ebe7e0",
+      "hip": true,
+      "roof": "#7d8486"
+    },
+    "우당관": {
+      "style": "brick",
+      "wall": "#d8946f",
+      "glass": "#4f9a8a",
+      "frame": "#efe9de"
+    },
+    "충효관": {
+      "style": "brick",
+      "wall": "#b4644e",
+      "glass": "#3f7c78",
+      "frame": "#e9e3d7",
+      "hip": true,
+      "roof": "#4f3a34"
+    },
+    "선덕관": {
+      "style": "brick",
+      "wall": "#c97556",
+      "glass": "#4f8a84",
+      "frame": "#eee8de"
+    },
+    "메디컬인성교육관": {
+      "style": "brick",
+      "wall": "#b06d5a",
+      "glass": "#3e5a60",
+      "frame": "#ece8e2",
+      "hip": true,
+      "roof": "#6e7376"
+    },
+    "자양관": {
+      "style": "brick",
+      "wall": "#ae6242",
+      "glass": "#4c8580",
+      "frame": "#e8e4dc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
